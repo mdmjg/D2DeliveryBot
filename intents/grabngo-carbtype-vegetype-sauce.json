@@ -1,0 +1,47 @@
+{
+  "id": "ca3e000f-6c4f-4a99-914b-50ae17734e3e",
+  "name": "grabngo-carbtype-vegetype-sauce",
+  "auto": true,
+  "contexts": [
+    "vegetype",
+    "grabngo",
+    "carbtype"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "sauce",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e79c8aa7-3365-49ab-a165-4ec880b3fe53",
+          "required": false,
+          "dataType": "@sauce",
+          "name": "sauce",
+          "value": "$sauce",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Chose your chose of meat.\nYou can chose from\nRoasted Beef\nTurkey Bacon\nTeriyaki Chicken\nSalmon"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541817899,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3943159d-ee75-4868-9693-613081c1b68e",
+  "name": "Confirmation-finalconfirm",
+  "auto": true,
+  "contexts": [
+    "confirmation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "finalconfirm",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "32de7deb-74b8-4715-9d7e-09336556b17e",
+          "required": false,
+          "dataType": "@confirmation",
+          "name": "confirmation",
+          "value": "$confirmation",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Mar, Is that you???"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807119,
+  "fallbackIntent": false,
+  "events": []
+}

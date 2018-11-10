@@ -1,0 +1,50 @@
+{
+  "id": "288dbe43-33c2-4cae-aff5-59a956989a16",
+  "name": "grabngo-carbtype",
+  "auto": true,
+  "contexts": [
+    "grabngo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "carbtype",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cbe51545-df7b-423c-8978-0e35b0090fa5",
+          "required": false,
+          "dataType": "@carbtype",
+          "name": "carbtype",
+          "value": "$carbtype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You chose $carbtype . What would you like for the vegetables ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you don\u0027t want vegetables, type \"No Veg\", \"NoVeg\", \"No Vegetables\" etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807512,
+  "fallbackIntent": false,
+  "events": []
+}

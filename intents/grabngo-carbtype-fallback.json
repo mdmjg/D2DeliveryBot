@@ -1,0 +1,41 @@
+{
+  "id": "7b542f9b-9bca-4a76-ba51-1dc0e4db1a10",
+  "name": "grabngo-carbtype-fallback",
+  "auto": true,
+  "contexts": [
+    "grabngo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "grabngo",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you please check the spelling again?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The bread choice available are: Panini // Wrap // Baguette"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807245,
+  "fallbackIntent": true,
+  "events": []
+}

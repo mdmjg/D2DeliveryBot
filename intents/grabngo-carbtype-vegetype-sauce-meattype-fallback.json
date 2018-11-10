@@ -1,0 +1,64 @@
+{
+  "id": "4ff93729-37fe-4b2c-b28f-05207f0e4653",
+  "name": "grabngo-carbtype-vegetype-sauce-meattype-fallback",
+  "auto": true,
+  "contexts": [
+    "grabngo",
+    "carbtype",
+    "vegetype",
+    "sauce"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "grabngo",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "carbtype",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "vegetype",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "sauce",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you check your spelling again?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can choose between:"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Roasted Beef // Turkey Bacon // Teriyaki Chicken // Salmon"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807558,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,18 +1,3 @@
 {
-  "name": "d2deliveryapp",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "apiai": "^4.0.3",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "ngrok": "^3.1.0",
-    "request": "^2.88.0"
-  }
+  "version": "1.0.0"
 }

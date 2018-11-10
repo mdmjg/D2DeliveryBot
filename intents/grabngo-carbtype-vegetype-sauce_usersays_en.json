@@ -1,0 +1,114 @@
+[
+  {
+    "id": "8cd98f0b-ffb2-4d45-8c23-5488c0f4ba7c",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "no sauce",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541801023
+  },
+  {
+    "id": "58ad98b8-35aa-463d-a927-b6eaa4404262",
+    "data": [
+      {
+        "text": "No sauce",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541801023
+  },
+  {
+    "id": "cce95cfb-ba69-406c-84aa-e1dcb628c274",
+    "data": [
+      {
+        "text": "chili",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "ketchup",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "mayo",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541800180
+  },
+  {
+    "id": "4f2825a7-d342-458d-a4e0-f3da8082ffb1",
+    "data": [
+      {
+        "text": "chili mayo",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769962
+  },
+  {
+    "id": "0a4ab23f-c3bf-4178-a18b-49f78d591af4",
+    "data": [
+      {
+        "text": "mayo",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769962
+  },
+  {
+    "id": "96f7cda5-5bf2-4be6-b43f-774cbbc3176d",
+    "data": [
+      {
+        "text": "I\u0027d like ",
+        "userDefined": false
+      },
+      {
+        "text": "ketchup",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769962
+  }
+]

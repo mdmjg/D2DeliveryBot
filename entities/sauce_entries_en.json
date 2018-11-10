@@ -1,0 +1,45 @@
+[
+  {
+    "value": "ketchup",
+    "synonyms": [
+      "ketchup"
+    ]
+  },
+  {
+    "value": "Mayonnaise",
+    "synonyms": [
+      "Mayonnaise",
+      "mayo"
+    ]
+  },
+  {
+    "value": "barbeque",
+    "synonyms": [
+      "barbeque",
+      "barbeque sauce",
+      "bbq"
+    ]
+  },
+  {
+    "value": "chili",
+    "synonyms": [
+      "chili",
+      "chili mayo",
+      "chilimayo"
+    ]
+  },
+  {
+    "value": "mustard",
+    "synonyms": [
+      "mustard",
+      "honey mustard"
+    ]
+  },
+  {
+    "value": "No Sauce",
+    "synonyms": [
+      "No Sauce",
+      "don\u0027t want sauce"
+    ]
+  }
+]

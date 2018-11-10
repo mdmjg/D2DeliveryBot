@@ -1,0 +1,41 @@
+{
+  "id": "5a9b0d10-f5a7-44c3-a039-4f1d5851b69d",
+  "name": "delivery-confirm-fallback",
+  "auto": true,
+  "contexts": [
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please check your spelling."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your response should follow this format:\nBuilding RoomNumber\n(ex: A5B 609)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807179,
+  "fallbackIntent": true,
+  "events": []
+}

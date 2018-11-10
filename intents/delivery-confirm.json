@@ -1,0 +1,56 @@
+{
+  "id": "281f1673-7f83-4c1b-a782-295101e60ca6",
+  "name": "delivery-confirm",
+  "auto": true,
+  "contexts": [
+    "delivery"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "confirm",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "delivery",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "159129b9-00eb-4310-a104-bd832e6243bb",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for contacting us!!"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The order has been submitted."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541808193,
+  "fallbackIntent": false,
+  "events": []
+}

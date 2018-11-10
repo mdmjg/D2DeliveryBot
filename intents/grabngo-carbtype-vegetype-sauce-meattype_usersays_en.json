@@ -1,0 +1,58 @@
+[
+  {
+    "id": "b7c143df-c3b9-44e4-b61b-d7c625216a2e",
+    "data": [
+      {
+        "text": "roasted beef",
+        "alias": "meattype",
+        "meta": "@meattype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541775463
+  },
+  {
+    "id": "3b1c80cd-c025-48c4-914f-3757feb94437",
+    "data": [
+      {
+        "text": "teriyaki",
+        "alias": "meattype",
+        "meta": "@meattype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541775463
+  },
+  {
+    "id": "300b1919-33f1-4dd2-b054-028374e49b07",
+    "data": [
+      {
+        "text": "salmon",
+        "alias": "meattype",
+        "meta": "@meattype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541775463
+  },
+  {
+    "id": "51c7bfe9-db4b-49f8-9bb0-2285ae3666a1",
+    "data": [
+      {
+        "text": "bacon",
+        "alias": "meattype",
+        "meta": "@meattype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541775463
+  }
+]

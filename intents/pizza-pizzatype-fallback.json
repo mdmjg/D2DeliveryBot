@@ -1,0 +1,46 @@
+{
+  "id": "34b65e35-c367-4481-a60a-1d09bd8a82bc",
+  "name": "pizza-pizzatype-fallback",
+  "auto": true,
+  "contexts": [
+    "pizza"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please check your spelling."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can choose between:"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Margherita // Barbecue Chicken // Mexicana // Four Cheese // Pepperoni"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807630,
+  "fallbackIntent": true,
+  "events": []
+}

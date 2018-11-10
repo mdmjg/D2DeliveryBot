@@ -1,0 +1,40 @@
+{
+  "id": "cf222fff-4dc2-4c3e-b57a-56c9dfd97644",
+  "name": "thegrill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "thegrill",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What kind of food would you like to order from the Grill?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can choose between:\n\nSteak\n-----------------------\nKebab\n-----------------------\nBurger\n-----------------------\nSandwich\n-----------------------\nHotdog"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807568,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "e3664b6e-ecd6-4308-be45-c6cab28c839a",
+  "name": "grabngo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "grabngo",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "387b8f43-a990-42d8-b1ef-c9c50d97130f",
+          "required": true,
+          "dataType": "@Restaurant_choice",
+          "name": "Restaurant_choice",
+          "value": "$Restaurant_choice",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please choose your choice of bread.\nChoices are:\nPanini\nWrap\nBaguette"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541796871,
+  "fallbackIntent": false,
+  "events": []
+}

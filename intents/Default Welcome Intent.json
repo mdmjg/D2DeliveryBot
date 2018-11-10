@@ -1,0 +1,39 @@
+{
+  "id": "bfd81cda-37c4-4c8e-8e67-409de6f2a2a0",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello, This is a ChatBot for NYUAD D2 Delivery Service. What kind of Food would you like to order? You can start by choosing the restaurant from the choices below:\n\nThe Grill  \n----------------\nGrab N Go\n----------------\nPizza"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541792550,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

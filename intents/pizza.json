@@ -1,0 +1,53 @@
+{
+  "id": "9ae70ad1-d299-4d08-b498-e6c85331a954",
+  "name": "pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f30098f9-f17a-4590-96c4-cc5b8bdfea73",
+          "required": true,
+          "dataType": "@Restaurant_choice",
+          "name": "Restaurant_choice",
+          "value": "$Restaurant_choice",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What Kind of Pizza would you like to have?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The choices are"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Margherita \n-----------------------------\nBarbeque Chicken \n-----------------------------\nPepperoni \n-----------------------------\nFour Cheese"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541796959,
+  "fallbackIntent": false,
+  "events": []
+}

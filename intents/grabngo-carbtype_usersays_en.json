@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0cf5ef15-f07b-4f1f-808e-a0d44de4ab30",
+    "data": [
+      {
+        "text": "baguette",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  },
+  {
+    "id": "c0a510a7-10f9-4572-8676-99c21f83faff",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "baguette",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  },
+  {
+    "id": "a5eb33f4-a6fd-42cf-be60-cafdbc79e7a2",
+    "data": [
+      {
+        "text": "panini",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  },
+  {
+    "id": "e5906574-98e3-4515-a98a-129ef7d590d5",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "panini",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  },
+  {
+    "id": "16023329-1c67-4ed6-b1c8-c2d6b9ba30f8",
+    "data": [
+      {
+        "text": "wrap",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  },
+  {
+    "id": "6c4267b2-84cb-4c1c-a55e-8ffa7afb143a",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "wrap",
+        "alias": "carbtype",
+        "meta": "@carbtype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769018
+  }
+]

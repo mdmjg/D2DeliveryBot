@@ -1,0 +1,65 @@
+[
+  {
+    "value": "cucumber",
+    "synonyms": [
+      "cucumber"
+    ]
+  },
+  {
+    "value": "onion",
+    "synonyms": [
+      "onion"
+    ]
+  },
+  {
+    "value": "caramelized",
+    "synonyms": [
+      "caramelized",
+      "caramelized onion"
+    ]
+  },
+  {
+    "value": "roasted",
+    "synonyms": [
+      "roasted",
+      "roasted vegetable"
+    ]
+  },
+  {
+    "value": "lettuce",
+    "synonyms": [
+      "lettuce"
+    ]
+  },
+  {
+    "value": "bell pepper",
+    "synonyms": [
+      "pepper",
+      "bell pepper",
+      "bellpepper"
+    ]
+  },
+  {
+    "value": "spinach",
+    "synonyms": [
+      "spinach"
+    ]
+  },
+  {
+    "value": "hummus",
+    "synonyms": [
+      "hummus"
+    ]
+  },
+  {
+    "value": "NoVeg",
+    "synonyms": [
+      "NoVeg",
+      "No Vegetables",
+      "No vegetable",
+      "No Veg",
+      "don\u0027t want vegetables",
+      "don\u0027t want veg"
+    ]
+  }
+]

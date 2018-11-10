@@ -1,0 +1,66 @@
+{
+  "id": "0bb21b8d-1443-4400-91e0-d9fa996df22c",
+  "name": "pizza-pizzatype",
+  "auto": true,
+  "contexts": [
+    "pizza"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "pizza",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "20567165-6791-4d47-bb22-6666aa54a4bc",
+          "required": false,
+          "dataType": "@pizzatype",
+          "name": "pizzatype",
+          "value": "$pizzatype",
+          "isList": false
+        },
+        {
+          "id": "6c694913-1d9a-4a3d-916f-db2393fb0838",
+          "required": false,
+          "dataType": "@sauce",
+          "name": "sauce",
+          "value": "$sauce",
+          "isList": false
+        },
+        {
+          "id": "f968d53b-bbb4-4849-876e-55aa8632d51e",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I see that you ordered $number of $pizzatype . Would you like to order anything else?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you\u0027d like to order more, type the restaurant name.\nIf not, type \u0027no\u0027 or \u0027I\u0027m fine\u0027 etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807588,
+  "fallbackIntent": false,
+  "events": []
+}

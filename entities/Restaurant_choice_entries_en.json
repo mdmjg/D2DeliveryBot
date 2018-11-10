@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Grill",
+    "synonyms": [
+      "grill",
+      "the grill",
+      "The Grill",
+      "Grill"
+    ]
+  },
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Pizza",
+      "The Pizza",
+      "pizza"
+    ]
+  },
+  {
+    "value": "Grabngo",
+    "synonyms": [
+      "grab",
+      "grabngo",
+      "Grab n Go",
+      "grab n go"
+    ]
+  },
+  {
+    "value": "Drinks",
+    "synonyms": [
+      "Drinks",
+      "drinks",
+      "drink",
+      "soda",
+      "juice",
+      "water"
+    ]
+  }
+]

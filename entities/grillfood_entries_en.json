@@ -1,0 +1,40 @@
+[
+  {
+    "value": "steak",
+    "synonyms": [
+      "steak",
+      "chicken steak",
+      "beef",
+      "sirloin"
+    ]
+  },
+  {
+    "value": "kebab",
+    "synonyms": [
+      "kebab",
+      "chicken kebab"
+    ]
+  },
+  {
+    "value": "burger",
+    "synonyms": [
+      "burger",
+      "angus burger",
+      "steak burger"
+    ]
+  },
+  {
+    "value": "sandwich",
+    "synonyms": [
+      "sandwich",
+      "chicken sandwich"
+    ]
+  },
+  {
+    "value": "hotdog",
+    "synonyms": [
+      "hotdog",
+      "hot dog"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "101220b2-179b-461a-9a46-f6c63492be81",
+    "data": [
+      {
+        "text": "yes, that is what I want",
+        "alias": "confirmation",
+        "meta": "@confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541799480
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "34649288-8044-497f-a216-57c4244ea470",
+    "data": [
+      {
+        "text": "pizza",
+        "alias": "Restaurant_choice",
+        "meta": "@Restaurant_choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1541772082
+  },
+  {
+    "id": "12f6476f-27eb-4764-96a1-0fbe069e680a",
+    "data": [
+      {
+        "text": "I\u0027d like to order from ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizza",
+        "alias": "Restaurant_choice",
+        "meta": "@Restaurant_choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541772232
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "9db00725-c7f9-4c96-98ce-8063e52e0598",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t want veg",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541801559
+  },
+  {
+    "id": "c6c6d4c2-1e9d-4210-b051-79ec09ac299c",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t want vegetable",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541801559
+  },
+  {
+    "id": "2cfda1b9-f802-48fb-a419-383e578bc362",
+    "data": [
+      {
+        "text": "onion",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "hummus",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "pepper",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541800067
+  },
+  {
+    "id": "ab525c1f-d56a-408d-b5d5-3d9a224f4c15",
+    "data": [
+      {
+        "text": "onion",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769483
+  },
+  {
+    "id": "cfa8b47a-7480-493a-b992-f556667a2e7c",
+    "data": [
+      {
+        "text": "hummus",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541769483
+  },
+  {
+    "id": "479cfc54-6e7a-47b3-957f-0303ec2a8f1b",
+    "data": [
+      {
+        "text": "pepper",
+        "alias": "vegetype",
+        "meta": "@vegetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541769483
+  }
+]

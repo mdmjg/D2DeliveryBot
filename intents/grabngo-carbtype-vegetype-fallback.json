@@ -1,0 +1,52 @@
+{
+  "id": "365e9b91-6853-415a-b0c4-13ebfab37f74",
+  "name": "grabngo-carbtype-vegetype-fallback",
+  "auto": true,
+  "contexts": [
+    "grabngo",
+    "carbtype"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "grabngo",
+          "parameters": {},
+          "lifespan": 4
+        },
+        {
+          "name": "carbtype",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you please check your spelling again?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can choose between:"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cucumber // Onion // Caramelized Onion // Roasted Vegetable // Lettuce // Bell Pepper // Spinach // Hummus"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807318,
+  "fallbackIntent": true,
+  "events": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "42e001f9-132e-49c8-9aa5-29f45acfcd1b",
+  "name": "grabngo-carbtype-vegetype-sauce-fallback",
+  "auto": true,
+  "contexts": [
+    "grabngo",
+    "carbtype",
+    "vegetype"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "carbtype",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "vegetype",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "grabngo",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you check if you have the right spelling?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can order from the following choices."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ketchup // Mayonnaise // Barbecue  // Chilimayo // Mustard"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807464,
+  "fallbackIntent": true,
+  "events": []
+}

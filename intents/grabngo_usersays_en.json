@@ -1,0 +1,44 @@
+[
+  {
+    "id": "334da071-d142-49c0-a80e-b48cd1c16ad8",
+    "data": [
+      {
+        "text": "Grab",
+        "alias": "Restaurant_choice",
+        "meta": "@Restaurant_choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541768575
+  },
+  {
+    "id": "6e23dff5-8c21-4caf-8dac-503af8625da7",
+    "data": [
+      {
+        "text": "Grab n Go",
+        "alias": "Restaurant_choice",
+        "meta": "@Restaurant_choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541768575
+  },
+  {
+    "id": "6db6d2f6-f7f6-4e81-ade6-4ae47fda77a0",
+    "data": [
+      {
+        "text": "grabngo",
+        "alias": "Restaurant_choice",
+        "meta": "@Restaurant_choice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541768575
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "f27668bf-f069-405e-865a-125a7323454a",
+  "name": "Confirmation",
+  "auto": true,
+  "contexts": [
+    "grabngo",
+    "carbtype",
+    "vegetype"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "confirmation",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d4a6d36d-2651-4d8b-b868-4575a99bdd71",
+          "required": false,
+          "dataType": "@confirmation",
+          "name": "confirmation",
+          "value": "$confirmation",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Then.... Would you like the Secret White Sauce™?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807752,
+  "fallbackIntent": false,
+  "events": []
+}

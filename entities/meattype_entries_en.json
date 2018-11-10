@@ -1,0 +1,33 @@
+[
+  {
+    "value": "Roasted Beef",
+    "synonyms": [
+      "Roasted Beef",
+      "beef",
+      "roasted"
+    ]
+  },
+  {
+    "value": "Turkey Bacon",
+    "synonyms": [
+      "Turkey Bacon",
+      "turkey",
+      "bacon"
+    ]
+  },
+  {
+    "value": "teriyaki chicken",
+    "synonyms": [
+      "teriyaki chicken",
+      "teriyaki"
+    ]
+  },
+  {
+    "value": "Salmon",
+    "synonyms": [
+      "Salmon",
+      "smoked salmon",
+      "salmon"
+    ]
+  }
+]

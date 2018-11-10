@@ -1,0 +1,80 @@
+[
+  {
+    "id": "10cfecce-5954-4a30-a298-18750f668fb6",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "alias": "pizzatype",
+        "meta": "@pizzatype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541772696
+  },
+  {
+    "id": "f9ecd8b8-9078-42b3-be1d-6d071579421e",
+    "data": [
+      {
+        "text": "barbeque",
+        "alias": "sauce",
+        "meta": "@sauce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541772696
+  },
+  {
+    "id": "55820f6c-ebe0-48eb-b8f6-d1ef6cd8032c",
+    "data": [
+      {
+        "text": "barbeque chicken",
+        "alias": "pizzatype",
+        "meta": "@pizzatype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541772696
+  },
+  {
+    "id": "b9886ecc-ae60-4d92-98f2-4d66d61d7db4",
+    "data": [
+      {
+        "text": "pepperoni",
+        "alias": "pizzatype",
+        "meta": "@pizzatype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541772696
+  },
+  {
+    "id": "a12bc402-6376-4684-b455-0efd532bf7b4",
+    "data": [
+      {
+        "text": "margherita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541772696
+  }
+]

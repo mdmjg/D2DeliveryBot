@@ -1,0 +1,50 @@
+{
+  "id": "1d6d009b-280f-4351-98bd-5a7cb49d9e01",
+  "name": "thegrill-grillfood",
+  "auto": true,
+  "contexts": [
+    "thegrill"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "thegrill",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f696a35-736d-456f-97c3-1fd56cf27e58",
+          "required": false,
+          "dataType": "@grillfood",
+          "name": "grillfood",
+          "value": "$grillfood",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Gotcha, do you want anything else than $grillfood ??"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you\u0027d like to order more, type the restaurant name.\nIf not, type \u0027no\u0027 or \u0027I\u0027m fine\u0027 etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541809583,
+  "fallbackIntent": false,
+  "events": []
+}

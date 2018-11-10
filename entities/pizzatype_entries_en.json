@@ -1,0 +1,38 @@
+[
+  {
+    "value": "Margherita",
+    "synonyms": [
+      "Margarita",
+      "margherita"
+    ]
+  },
+  {
+    "value": "barbecue chicken",
+    "synonyms": [
+      "barbecue chicken",
+      "barbecue"
+    ]
+  },
+  {
+    "value": "Mexicana",
+    "synonyms": [
+      "mexicana"
+    ]
+  },
+  {
+    "value": "Four Cheese",
+    "synonyms": [
+      "fourcheese",
+      "four cheese",
+      "quatrocheese",
+      "Four Cheese"
+    ]
+  },
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "peperoni",
+      "pepperoni"
+    ]
+  }
+]

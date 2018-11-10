@@ -1,0 +1,86 @@
+[
+  {
+    "value": "A1A",
+    "synonyms": [
+      "A1A",
+      "a1a"
+    ]
+  },
+  {
+    "value": "A1B",
+    "synonyms": [
+      "A1B",
+      "a1b"
+    ]
+  },
+  {
+    "value": "A1C",
+    "synonyms": [
+      "A1C",
+      "a1c"
+    ]
+  },
+  {
+    "value": "A2B",
+    "synonyms": [
+      "A2B",
+      "a2b"
+    ]
+  },
+  {
+    "value": "A2A",
+    "synonyms": [
+      "A2A",
+      "a2a"
+    ]
+  },
+  {
+    "value": "A2C",
+    "synonyms": [
+      "A2B",
+      "a2b"
+    ]
+  },
+  {
+    "value": "A5A",
+    "synonyms": [
+      "A5A",
+      "a5a"
+    ]
+  },
+  {
+    "value": "A5B",
+    "synonyms": [
+      "A5B",
+      "a5b"
+    ]
+  },
+  {
+    "value": "A5C",
+    "synonyms": [
+      "a5c",
+      "A5C"
+    ]
+  },
+  {
+    "value": "A6A",
+    "synonyms": [
+      "A6A",
+      "a6a"
+    ]
+  },
+  {
+    "value": "A6B",
+    "synonyms": [
+      "A6B",
+      "a6b"
+    ]
+  },
+  {
+    "value": "A6C",
+    "synonyms": [
+      "A6C",
+      "a6c"
+    ]
+  }
+]

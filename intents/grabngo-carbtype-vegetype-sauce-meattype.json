@@ -1,0 +1,53 @@
+{
+  "id": "fa56d04c-d03e-4ca7-b674-39bcb3f2e161",
+  "name": "grabngo-carbtype-vegetype-sauce-meattype",
+  "auto": true,
+  "contexts": [
+    "sauce",
+    "grabngo",
+    "carbtype",
+    "vegetype"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "meattype",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "11827b91-81da-4e2a-b5bb-8f3087ba18fa",
+          "required": false,
+          "dataType": "@meattype",
+          "name": "meattype",
+          "value": "$meattype",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You chose $meattype ."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you\u0027d like to order more, type the restaurant name.\nIf not, type \u0027no\u0027 or \u0027I\u0027m fine\u0027 etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807509,
+  "fallbackIntent": false,
+  "events": []
+}

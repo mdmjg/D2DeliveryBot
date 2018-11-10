@@ -1,0 +1,46 @@
+{
+  "id": "8e3b185b-e6ea-4ccc-8bca-94c60b0c0e9d",
+  "name": "thegrill-grillfood-fallback",
+  "auto": true,
+  "contexts": [
+    "thegrill"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "thegrill",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please check your spelling again."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can choose between:"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Steak\n----------------\nKebab\n----------------\nBurger\n----------------\nSandwich\n----------------\nHotdog"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807679,
+  "fallbackIntent": true,
+  "events": []
+}

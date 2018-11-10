@@ -1,0 +1,51 @@
+{
+  "id": "56b2e4a9-3035-4e27-9a42-77de8b3f0c2c",
+  "name": "grabngo-carbtype-vegetype",
+  "auto": true,
+  "contexts": [
+    "carbtype",
+    "grabngo"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "vegetype",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "14c4b24a-b4eb-4bc9-b576-7766359fe5ad",
+          "required": false,
+          "dataType": "@vegetype",
+          "name": "vegetype",
+          "value": "$vegetype",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please choose your sauce."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you don\u0027t want sauce, type \"No Sauce\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541807535,
+  "fallbackIntent": false,
+  "events": []
+}

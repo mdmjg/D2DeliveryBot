@@ -1,0 +1,16 @@
+[
+  {
+    "value": "confirm1",
+    "synonyms": [
+      "confirm1",
+      "I don\u0027t want these sauce."
+    ]
+  },
+  {
+    "value": "confirm2",
+    "synonyms": [
+      "confirm2",
+      "yes, that is what I want"
+    ]
+  }
+]
